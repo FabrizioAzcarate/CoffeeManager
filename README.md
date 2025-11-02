@@ -7,7 +7,7 @@ python src/main.py
 ```
 
 ## ¿Qué es lo que incluye?
-- POO: herencia, polimorfismo, encapsulamiento, abstracción
-- Patrones: Singleton, Chain of Responsibility, Strategy, Builder
-- Principios SOLID: SRP, LSP (señalados en la implementación)
-- Arquitectura MVC (models/, controllers/, views/)
+- Programacion Orientada a Objetos: herencia, polimorfismo, encapsulamiento y abstracción.
+- Patrones: Singleton, Chain of Responsibility, Strategy y Builder.
+- Principios SOLID: SRP (Principio de Responsabilidad Unica) & LSP (Principio de Sustitucion de Liskov)
+- Arquitectura MVC (Modelo Vista Controlador)
